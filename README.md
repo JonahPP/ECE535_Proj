@@ -2,10 +2,10 @@
 Project Ideas: 4. Deep-Learning based Tracking for Mobile Systems
 
 # Motivation
-The motivation to take this project is profound recognition of the transformative potential of deep learning in advancing mobile tracking systems. As living in era where similar technologies demand percise pose estimation, it is interest to work on this project. By working on this project we are looking forward to contribute to the forefront of technological innovation and improvement.
+The motivation to take this project is profound recognition of the transformative potential of deep learning in advancing mobile tracking systems. As living in an era where similar technologies demand percise pose estimation, we find this type of project to be quite interesting while remaining very relevant to our times. By working on this project we aim to contribute to the forefront of technological innovation and improvement.
 
 # Design Goals
-Our goal is to develop deep learning tracking algorithm for two mobile systems.
+Our goal is to develop a deep learning tracking algorithm for two mobile systems.
 
 # Deliverables
 - Implement and understand an end-to-end learning approach for tracking - TartaVO
@@ -15,7 +15,8 @@ Our goal is to develop deep learning tracking algorithm for two mobile systems.
 # System Blocks
 
 # HW/SW Requirements
-- SW: Python, Laptio with CUDA-enabled GPU
+- SW: Python
+- HW: Laptop with CUDA-enabled GPU
 
 # Team Members Responsibilities
 Team members should work productively and take responsibility for their roles.
