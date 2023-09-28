@@ -24,6 +24,10 @@ Team members should work productively and take responsibility for their roles.
 - Jonah Park: Software Lead
 
 # References
-- Multimodal Federated Learning on IOT Data (https://pure-research.york.ac.uk/ws/portalfiles/portal/79047763/2109.04833v2.pdf)
-- Communication-Efficient learning of deep networks from decentralized data (https://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf)
+- Paper: TartanVO: A Generalizable Learning-based VO, https://arxiv.org/pdf/2011.00359.pdf
+- Code: https://github.com/castacks/tartanvo
+- Datasets:
+1. EuRoC: https://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets
+2. KITTI: https://www.cvlibs.net/datasets/kitti/eval_odometry.php
+3. HoloSet: https://tinyurl.com/holoset-dataset
 
