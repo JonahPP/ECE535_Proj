@@ -1,3 +1,6 @@
 # ECE535_Proj
 
-Hello
+# Motivation
+
+# Design Goals
+
