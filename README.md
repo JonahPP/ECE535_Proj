@@ -9,8 +9,8 @@ Our goal is to develop a deep learning tracking algorithm for two mobile systems
 
 # Deliverables
 - Implement and understand an end-to-end learning approach for tracking - TartaVO
-- Benchmark TartanVO on two datasets to evaulate its performance (data & code provided)
-- Analyze performance difference across datasets and reason about it
+- Two Benchmarks of TartanVO on three datasets to evaulate its performance (data & code provided)
+- Analyze performance difference across datasets with reasons
 
 # System Blocks
 
