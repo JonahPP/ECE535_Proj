@@ -19,9 +19,9 @@ Our goal is to develop deep learning tracking algorithm for two mobile systems.
 
 # Team Members Responsibilities
 Team members should work productively and take responsibility for their roles.
-Dan Kang: Research Lead
-Josh Grassia: Algorithm Lead
-Jonah Park: Software Lead
+- Dan Kang: Research Lead
+- Josh Grassia: Algorithm Lead
+- Jonah Park: Software Lead
 
 # References
 - Multimodal Federated Learning on IOT Data (https://pure-research.york.ac.uk/ws/portalfiles/portal/79047763/2109.04833v2.pdf)
